@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <Import Project="../../External/AngryWasp.Build/AngryWasp.Build.Library.targets" />
+    <Import Project="../../External/AngryWasp.Build/AngryWasp.Build.Pack.targets" />
+    <PropertyGroup>
+        <PackageId>AngryWasp.Logger</PackageId>
+        <PackageDescription>Basic logging functionality</PackageDescription>
+        <RepositoryUrl>https://github.com/angrywasp/AngryWasp.Logger</RepositoryUrl>
+        <Author>Angry Wasp</Author>
+    </PropertyGroup>
+</Project>
